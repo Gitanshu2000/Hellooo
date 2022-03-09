@@ -19,3 +19,6 @@ chnges For bug2 3 way merging with conflict
 Change: For WI4 by team mate for rebase with conflict
 
 Change: for CR1 to check rebase with conflict.
+
+
+Change: For CR2 TO check stash fot half workdone imprerss
