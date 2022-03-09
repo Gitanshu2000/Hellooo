@@ -2,7 +2,12 @@ Welcome to Persistent !
 
 Change for commit am for W1
 
+
 Change: for the Differnce W1
 chnges: for bug12
 
-Change for WI3 by team mate for 3 way merging conflict
+Change for WI3 by team mate for 3 way merging conflict.
+
+
+
+chnges for bug2 3 way merging with conflict
