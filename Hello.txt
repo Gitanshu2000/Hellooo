@@ -1,6 +1,9 @@
-Welcome to Persistent !
+Welcome to Persistent !!
 
-Change For commit am for W1
+
+Change :For commit am for W1
+Change :for commit am for W1
+
 
 
 Change: For the Differnce W1
@@ -10,6 +13,9 @@ Change For WI3 by team mate for 3 way merging conflict.
 
 
 
+
 chnges For bug2 3 way merging with conflict
 
-Change: For WI4 by team mate for rebase with conflict.
+Change: For WI4 by team mate for rebase with conflict
+
+Change: for CR1 to check rebase with conflict.
