@@ -1,25 +1,36 @@
 Welcome to Persistent !!
 
 
-Change1 :For commit am for W1
-Change 2:for commit am for W1
+
+Change1 :-For commit am for W1
+Change 2:-for commit am for W1
 
 
 
-Change3: For the Differnce W1
-chnges4: For bug12
+Change3:- For the Differnce W1
+chnges4:- For bug12
+
+
+
+
+
+
 
 Change 5For WI3 by team mate for 3 way merging conflict.
 
 
 
 
-chnges6 For bug2 3 way merging with conflict
-
-Change7: For WI4 by team mate for rebase with conflict
-
-Change8: for CR1 to check rebase with conflict.
+chnges6:- For bug2 3 way merging with conflict
 
 
-Change9: For CR2 TO check stash fot half workdone imprerss
-Change 10: For WI5 BY team mate on remote master
+Change7:- For WI4 by team mate for rebase with conflict
+
+Change8:- for CR1 to check rebase with conflict.
+
+
+Change9:- For CR2 TO check stash fot half workdone imprerss
+Change 10:- For WI5 BY team mate on remote master
+
+
+Change 11 :-for bug3 on local master.
